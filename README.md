@@ -1,7 +1,9 @@
- <h1 color="blue">Tienda de móviles ☎</h1><br>
+ <h1 align="center">Tienda de móviles ☎</h1><br>
 He desarrollado una web de ventas de móviles, ordenadores, relojes inteligentes y de más cosas electrónicas. Es la web de una tienda que se encuentra en Zaragoza y nos han pedido que la desarrollemos para darle más visibilidad a la tienda.
 <br><br>
 Hay partes en la web sobre todo las partes de assets que las tenia puestas en la otra web y seguramente en esta web en determinadas páginas no se utilizan pero en otras así que he decido dejarlas por si acaso.
+<br><br>
+Tengo también otro proyecto pendiete que es uno con Laravel que es  un framework de código abierto para desarrollar aplicaciones y servicios web con PHP 5, PHP 7 y PHP 8, me gustaría reanudarlo más adelante.
 
 
 
