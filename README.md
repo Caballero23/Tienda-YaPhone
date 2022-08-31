@@ -6,8 +6,8 @@ Hay partes en la web sobre todo las partes de assets que las tenia puestas en la
 Tengo también otro proyecto pendiete que es uno con Laravel que es  un framework de código abierto para desarrollar aplicaciones y servicios web con PHP 5, PHP 7 y PHP 8, me gustaría reanudarlo más adelante.
 
 <br><br>
- <h3 align="center"center>🢃Aqí os dejo el enlace a la memoria del proyecto🢃</h3>
-            <h3 align="center"center>      https://drive.google.com/file/d/1q_-tSi7F--lxY0Pdiwe2qpfqrSWyeUxm/view?usp=sharing</h3></h3>
+<h3 align="center"center>🢃Aqí os dejo el enlace a la memoria del proyecto🢃</h3>
+<h4 align="center"center>  https://drive.google.com/file/d/1q_-tSi7F--lxY0Pdiwe2qpfqrSWyeUxm/view?usp=sharing</h43>
 
 
 
